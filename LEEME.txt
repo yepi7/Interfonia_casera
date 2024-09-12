@@ -1,0 +1,1 @@
+El fichero tx_Mic.py transmite el micrófono en tiempo real. Funciona con python.
